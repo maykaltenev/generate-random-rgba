@@ -6,6 +6,7 @@ body {
   align-items: center;
   flex-direction: column;
   font-family: "Metrophobic", sans-serif;
+  background-color: rgb(206, 202, 195);
 }
 button {
   width: 200px;
@@ -33,4 +34,5 @@ button:hover,
 h1:hover {
   background-color: rgba(164, 158, 158, 0.701);
   color: rgba(52, 51, 51, 0.866);
+  cursor: pointer;
 }
