@@ -4,7 +4,6 @@ const h1 = document.querySelector('h1');
 button.addEventListener('click', function () {
     const newColor = makeRandColor();
     document.body.style.backgroundColor = newColor;
-    h1.innerText = newColor;
 })
 
 const makeRandColor = () => {
