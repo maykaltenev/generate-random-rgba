@@ -1,4 +1,4 @@
-## No Orange Life Is Gray
+## Find your perfect color!
 
 ![img](./img/find-your-color.png)
 [Test this app yourself](https://maykaltenev.github.io/generate-random-rgba/)
